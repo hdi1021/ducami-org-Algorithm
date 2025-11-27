@@ -9,6 +9,8 @@ public class Method1 {
         int sum1 = a + b;
         System.out.println("결과1 출력 : " + sum1);
 
+        System.out.println("===================");
+
         int x = 10;
         int y = 20;
         System.out.println(x + "+" + y + "연산 수행");
